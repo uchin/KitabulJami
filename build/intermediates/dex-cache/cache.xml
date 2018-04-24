@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\94fedb63916ec77bde54f9a388272778cef96165\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_d17e5f428470d205db152fc0e09fb9810350810d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aswaj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_79289f0a8679e39bfbcf17b7dc37c8c77650a4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\3c2018f3846a0e6e7e5f1861f6dfdfa510c370a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_f335943463a5d94fe94337ac384ae7fa3f9bd8cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_cafee9bbe4cb9a3f6cb7f9ce6f7a15ad5ec000f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\ff64768ed3df69aec9f26d370a995ac38ee149fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_f001d5a509fd36e85b93df6bdc9bcee78fefb29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\399650758e557f413296be07a2a277f0a9bdafe1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_3dc6a5105ff2fb0d9b41210d4f7860ab99372a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\761157e3c4445a217ae375a743df2259638a9492\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_d6f52e63b2c1e1b3e9f594b2a67e9e7108997055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\870237ba4f47a99fc5b0bbd089bc907ddb448cd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_da7dc5299fe45b53406f7c7b44e3a388aa863764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\23e4679053a418159ce33c06f56afc97f7844370\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_c9564bf3aba7b08a249e5330dd9ca687096a3d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aswaj\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f3fc0e4fc381bd5f54042f3d07aad5efc210c156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aswaj\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_76f8611a9bd3e17ab059dd4c7501204536254305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\4072cb0a02356517b4afb119bcd8d51fe4bf78b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_589df1da605d87f339a17d47dce880ec729e8cb5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Development\Android\avd\.android\build-cache\94ba15382ace52a5852cbc708a8dc0cb24c83898\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="F:\KitabulJami\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a0ee462953e71e43cfa5384df0006923e4c4cad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\d8430d4f104f04c1e9558bca0b10e2701a2e2b41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_c7784bba14fc28a5f55e879731a7ecb5faf5a1d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\c5fcd3873ddca9daf2ad4612d7ccef31206a8d76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_9aec125ba1601cf917377488c7cf06685d1f80de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\530e20653f6bc580ab7e758abbbabe29468af77a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_bb83dad935a2ef022ff121c3685188c0825aa749.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KitabulJami\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9363f22075047128184f8bfff010871d5e58b71a">
+        <dex dex="F:\KitabulJami\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_41d785b563c1a096b4f01509d78365b298336655\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aswaj\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_ea9e483a144874e742699589a629239f7811a7e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aswaj\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\gson-2.7_d74d24e1c33ad2a005b84ad30925c49d5c3fa260.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\KitabulJami\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\KitabulJami\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1407e5d418a6dd80c17911ce0a1bd62836091859\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\6f26185c897e263100d8e71e4c1214b395b27a0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_c3896eee026315e109a10d88b00610eb1374b8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\6d80428a3c1895ba98f3305a5adf3b5be7760988\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_8592921710a66b926be7a4b9ac2a1134e7f0de8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\aaaf09a5d52e8606fb5a9599d58c8e48620961ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_66fad8f2c5d17a503c991aa7d99f2d71fd17b6b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aswaj\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\KitabulJami\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_892992e19ec74c7b218350c0f145e03518fa748b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android\avd\.android\build-cache\ba3d2664e32361a5319f297abbe86a9fdc252176\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\KitabulJami\app\build\intermediates\pre-dexed\debug\classes_89e2de2712fa6891a9dce6baaa93243761942ae7.jar" />
+    </item>
+
+</items>

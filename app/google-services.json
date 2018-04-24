@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769482114192",
+    "firebase_url": "https://kitabuljami-5f572.firebaseio.com",
+    "project_id": "kitabuljami-5f572",
+    "storage_bucket": "kitabuljami-5f572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769482114192:android:4a12a53a35fec36f",
+        "android_client_info": {
+          "package_name": "com.uchin.kitabuljami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769482114192-9737h5ja04a499b0k06kb9ji4l46kciv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uchin.kitabuljami",
+            "certificate_hash": "971660c41dfe25952d1f919e884cd77b374694c2"
+          }
+        },
+        {
+          "client_id": "769482114192-4ghdchqf1ejbobpgk5rlm9j5udbtnv2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBNoux08QxlhCDzWzeOAPQL0883nvjFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769482114192-4ghdchqf1ejbobpgk5rlm9j5udbtnv2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

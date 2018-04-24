@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AL JAMI\'</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="shareapp">Share this App</string>
+    <string name="muqadimah">Preamble</string>
+    <string name="pengantar">Introduction</string>
+    <string name="topic">Main Topics</string>
+    <string name="bab2">Silaturahim dan Kebajikan</string>
+    <string name="bab1">Adab</string>
+    <string name="bab3">Zuhud dan Wara\'</string>
+    <string name="bab4">Akhlaq (Mulia dan Tercela)</string>
+    <string name="bab5">Dzikir dan Do\'a</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="option">Setting</string>
+    <string name="istilah">Daftar Istilah</string>
+    <string name="biografi">Biografi Penulis</string>
+    <string name="setting">Setting</string>
+    <string name="textdemo"><b>Ibnu Hajar </b>tumbuh dan besar sebagai anak yatim piatu yang menjaga iffah (menjaga diri dari dosa), sangat berhati-hati, dan mandiri dibawah kepengasuhan kedua orang tersebut. Zaakiyuddin Abu Bakar Al-Kharubi memberikan \n\n\ perhatian yang luar biasa dalam memelihara dan memperhatikan serta mengajari beliau. Dia selalu membawa Ibnu Hajar ketika mengunjungi dan tinggal di Makkah hingga ia meninggal dunia tahun 787 H.   Pada usia lima tahun Ibnu Hajar masuk Al-Maktab (semacam TPA sekarang) untuk menghafal Alquran, di sana ada seorang guru yang bernama Syamsuddin bin Al-Alaf yang saat itu menjadi gubernur \n\n\ Mesir dan juga Syamsuddin Al-Athrusy. Akan tetapi, ibnu Hajar belum berhasil menghafal Alquran sampai beliau diajar oleh seorang ahli fakih dan pengajar sejati yaitu Shadruddin Muhammad bin Muhammad bin \n\n\ Abdurrazaq As-Safthi Al Muqri’. Kepada beliau ini lah akhirnya ibnu Hajar dapat mengkhatamkan hafalan Alqurannya ketika berumur sembilan tahun.   Ketika Ibnu Hajar berumur 12 tahun ia ditunjuk sebagai imam shalat Tarawih di Masjidil Haram pada tahun 785 H. Ketika sang pengasuh berhaji pada tahun 784 H. Ibnu Hajar menyertainya sampai tahun 786 H. hingga kembali bersama Al-Kharubi ke Mesir. Setelah kembali ke Mesir pada tahun 786 H. Ibnu Hajar benAr-benar bersungguh-sungguh dalam menuntut ilmu, hingga ia hafal beberapa kitab-kitab induk seperti Al-‘Umdah Al-Ahkaam karya Abdulghani Al-Maqdisi, Al-Alfiyah fi Ulum Al-Hadits karya guru beliau Al-Haafizh Al-Iraqi, Al-Haawi Ash-Shaghi karya Al-Qazwinir, Mukhtashar ibnu Al-Haajib fi Al-Ushul dan Mulhatu Al-I’rob serta yang lainnya.   Pertama kali ia diberikan kesenangan meneliti kitab-kitab sejarah (tarikh) lalu banyak hafal nama-nama perawi dan keadaannya. Kemudian meneliti bidang sastra Arab dari tahun 792 H. dan menjadi pakar dalam syair.   Kemudian diberi kesenangan menuntut hadits dan dimulai sejak tahun 793 H. namun beliau belum konsentrasi penuh dalam ilmu ini kecuali pada tahun 796 H. Diwaktu itulah beliau konsentrasi penuh untuk mencari hadits dan ilmunya.   Saat ketidakpuasan dengan apa yang didapatkan akhirnya Ibnu Hajar bertemu denganAl-Hafizh Al-Iraqi yaitu seorang syaikh besar yang terkenal sebagai ahli fikih, orang yang paling tahu tentang madzhab Syafi’i. Disamping itu ia seorang yang sempurna dalam penguasaan tafsir, hadist dan bahasa Arab. Ibnu Hajar menyertai sang guru selama sepuluh tahun. Dan dalam sepuluh tahun ini Ibnu Hajar menyelinginya dengan perjalanan ke Syam dan yang lainnya. Ditangan syaikh inilah Ibnu Hajar berkembang menjadi seorang ulama sejati dan menjadi orang pertama yang diberi izin Al-Iraqi untuk mengajarkan hadits. Sang guru memberikan gelar Ibnu Hajar dengan Al-Hafizh dan sangat dimuliakannya. Adapun setelah sang guru meninggal dia belajar dengan guru kedua yaitu Nuruddin Al-Haitsami, ada juga guru lain beliau yaitu Imam Muhibbuddin Muhammad bin Yahya bin Al-Wahdawaih melihat keseriusan Ibnu Hajar dalam mempelajari hadits, ia memberi saran untuk perlu juga mempelajari fikih karena orang akan membutuhkan ilmu itu dan menurut prediksinya ulama didaerah tersebut akan habis sehingga Ibnu Hajar amat diperlukan.   Imam Ibnu Hajar juga melakukan rihlah (perjalanan tholabul ilmi) ke negeri Syam, Hijaz dan Yaman dan ilmunya matang dalam usia muda himgga mayoritas ulama dizaman beliau mengizinkan beliau untuk berfatwa dan mengajar.   Beliau mengajar di Markaz Ilmiah yang banyak diantaranya mengajar tafsir di Al-madrasah Al-Husainiyah dan Al-Manshuriyah, mengajar hadits di Madaaris Al-Babrisiyah, Az-Zainiyah dan Asy-Syaikhuniyah dan lainnya. Membuka majlis Tasmi’ Al-hadits di Al-Mahmudiyah serta mengajarkan fikih di Al-Muayyudiyah dan selainnya.   Beliau juga memegang masyikhakh (semacam kepala para Syeikh) di Al-Madrasah Al-Baibrisiyah dan madrasah lainnya (Lihat Ad-Dhau’ Al-Laami’ 2/39).</string>
+    <string name="search">search</string>
+
+    <string-array name="query_sugestions">
+        <item>Furniture</item>
+        <item>Women fashion</item>
+        <item>Hotels</item>
+        <item>Mn Fashion</item>
+        <item>Education</item>
+        <item>Services</item>
+    </string-array>
+</resources>

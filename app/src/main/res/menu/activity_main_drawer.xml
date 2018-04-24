@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="@string/muqadimah">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/pengantar"
+                    android:icon="@drawable/ic_description_black_24dp"
+                    android:background="?attr/selectableItemBackground"
+                    android:title="@string/pengantar" />
+                <item
+                    android:id="@+id/biografi"
+                    android:icon="@drawable/ic_account_circle_black_24dp"
+                    android:title="@string/biografi" />
+                <item
+                    android:id="@+id/reference"
+                    android:icon="@drawable/ic_list_black_24dp"
+                    android:title="Daftar Istilah" />
+            </group>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bookmark"
+            android:icon="@drawable/ic_collections_bookmark_black_24dp"
+            android:title="Bookmark" />
+    </group>
+
+    <item android:title="@string/topic">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/maintopics1"
+                    android:icon="@drawable/ic_filter_1_black_24dp"
+                    android:title="@string/bab1" />
+                <item
+                    android:id="@+id/maintopics2"
+                    android:icon="@drawable/ic_filter_2_black_24dp"
+                    android:title="@string/bab2" />
+                <item
+                    android:id="@+id/maintopics3"
+                    android:icon="@drawable/ic_filter_3_black_24dp"
+                    android:title="@string/bab3" />
+                <item
+                    android:id="@+id/maintopics4"
+                    android:icon="@drawable/ic_filter_4_black_24dp"
+                    android:title="@string/bab4" />
+                <item
+                    android:id="@+id/maintopics5"
+                    android:textAllCaps="true"
+                    android:icon="@drawable/ic_filter_5_black_24dp"
+                    android:title="@string/bab5" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/shareapp"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/shareapp" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_memory_black_24dp"
+                android:title="@string/about" />
+            <item
+                android:id="@+id/setting"
+                android:icon="@drawable/ic_settings_applications_black_24dp"
+                android:title="@string/option" />
+        </menu>
+    </item>
+
+</menu>

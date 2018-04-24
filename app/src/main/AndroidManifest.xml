@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.uchin.kitabuljami">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:node="replace">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ReferenceActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".MainTopics1">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".MainTopics2">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".MainTopics3">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".MainTopics4">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".MainTopics5">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".BiografiActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".AboutActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".SettingActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+        <activity android:name=".HaditsDetail">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.uchin.kitabuljami.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>
